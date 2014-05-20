@@ -3,10 +3,7 @@
   "dependencies": {
     "basePackages": {
       "iron-router": {},
-      "jade": {},
-      "boardgame": {
-        "path": "../mc-board"
-      }
+      "jade": {}
     },
     "packages": {
       "iron-router": {
@@ -18,9 +15,6 @@
         "git": "https://github.com/mquandalle/meteor-jade.git",
         "tag": "v0.2.2",
         "commit": "0391abab7d592b17ff74d9b9beaa721051970729"
-      },
-      "boardgame": {
-        "path": "../mc-board"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",

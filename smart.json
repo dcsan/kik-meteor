@@ -1,10 +1,6 @@
 {
   "packages": {
     "iron-router": {},
-    "jade": {},
-    "boardgame": {
-    	"path": "../mc-board"
-        
-    }
+    "jade": {}
   }
 }
