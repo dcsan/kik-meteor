@@ -1,0 +1,1 @@
+meteor deploy kik.meteor.com
