@@ -1,1 +1,1 @@
-meteor deploy kik.meteor.com
+meteor deploy kik-test.meteor.com
