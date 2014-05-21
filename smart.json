@@ -2,6 +2,7 @@
   "packages": {
     "iron-router": {},
     "jade": {},
-    "ms-seo": {}
+    "ms-seo": {},
+    "headly": {}
   }
 }

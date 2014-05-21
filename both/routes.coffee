@@ -1,4 +1,6 @@
-# Router.configure layoutTemplate: "mobile"
+Router.configure 
+	layoutTemplate: "layout"
+
 
 Router.map ->
 	

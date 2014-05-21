@@ -45,3 +45,13 @@ SeoCollection.insert({
         {"description": "testing KIK with meteor"},
     ],
 })
+
+
+Meteor.headly.config
+    data: (req) ->
+      return {title: "KIK test"}
+
+    # ,
+    # facebook: (data) ->
+    #   return '<meta property="og:title" content="'+data.title+'" />'
+    # }
