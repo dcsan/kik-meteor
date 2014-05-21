@@ -3,7 +3,8 @@
   "dependencies": {
     "basePackages": {
       "iron-router": {},
-      "jade": {}
+      "jade": {},
+      "ms-seo": {}
     },
     "packages": {
       "iron-router": {
@@ -15,6 +16,11 @@
         "git": "https://github.com/mquandalle/meteor-jade.git",
         "tag": "v0.2.2",
         "commit": "0391abab7d592b17ff74d9b9beaa721051970729"
+      },
+      "ms-seo": {
+        "git": "https://github.com/DerMambo/ms-seo",
+        "tag": "v0.2.6",
+        "commit": "1a4ba31a1f6f29009d3941e9dd883829ff4e4b8b"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",

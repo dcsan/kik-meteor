@@ -35,3 +35,13 @@ Meteor.methods
 		# Meteor.setTimeout () ->
 		# 	res = Meteor.http.call("POST", url, post, pushCallback)
 		# , 3000
+
+SeoCollection.remove({})
+SeoCollection.insert({
+    "route_name" : "home", 
+    "title" : "KIK test",
+
+    "meta" : [
+        {"description": "testing KIK with meteor"},
+    ],
+})
